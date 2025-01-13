@@ -1,4 +1,4 @@
-# <div align="center">RPEmotes 🏋️</div>
+# <div align="center">RPEmotes By TayMcKenzieNZ 🏋️</div>
 
 RPEmotes <b>was</b> a community driven FiveM emote menu allowing players to express themselves in roleplay with custom animations, countless facial expressions, walkstyles and props, inspired by [DullPear](https://github.com/andristum/dpemotes). 
 
