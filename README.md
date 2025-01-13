@@ -4,6 +4,8 @@ RPEmotes <b>was</b> a community driven FiveM emote menu allowing players to expr
 
 Unfortunately, it is no longer being maintained. Please refer to our wiki to self troubleshoot.
 
+- Note from Viper -
+I am not the maintainer of this resource, please refer to the latest updates from [TayMcKenzieNZ](https://github.com/TayMcKenzieNZ/rpemotes)
 
 # Our Wiki 📜
 
